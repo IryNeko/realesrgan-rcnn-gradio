@@ -2,6 +2,8 @@
 Gradio UI for realesrgan-rcnn, useful for deployment on a server<br>
 (I may have the license inheretence wrong so please correct me) 
 
+中文在这:https://github.com/IryNeko/realesrgan-rcnn-gradio/blob/main/README-ZH.md
+
 # installation
 *before everything* <br>
 get the rcnn-vulcan model from: <br>
